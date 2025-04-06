@@ -1,0 +1,23 @@
+/mi_app_flask/
+│
+├── app.py
+├── config.py
+├── requirements.txt
+├── .gitignore
+├── /templates/
+│   ├── index.html
+│   ├── login.html
+│   ├── productos.html
+│   └── editar_producto.html
+├── /static/
+│   └── css/estilos.css
+├── /Conexión/
+│   └── conexion.py
+├── /models/
+│   └── producto.py
+├── /controllers/
+│   └── auth.py
+│   └── productos.py
+├── /sql/
+│   └── script_bd.sql
+└── README.md
